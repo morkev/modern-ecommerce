@@ -14,6 +14,3 @@ Make sure you clone or download this repository, and then just run it in your XA
 
 <img width="520" alt="Screenshot 2022-12-15 at 19 22 30" src="https://user-images.githubusercontent.com/83437383/208014773-01bc77f8-fb07-4e12-bd9b-fb5bcbf0fd02.png">
 
-
-<img width="520" alt="Screenshot 2022-12-15 at 19 20 29" src="https://user-images.githubusercontent.com/83437383/208014465-c88d4948-2aaf-473a-aca6-b491d9ca7fe9.png">
-
