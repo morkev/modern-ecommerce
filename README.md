@@ -4,7 +4,7 @@
 
 `git clone https://github.com/morkev/modern-ecommerce.git`
 
-I built this cute, light and modern e-commerce for my final project in my Advanced Web Development course using mainly PHP. Because I have to pay for a service in order to host this PHP code, I won't have any demo, but the images are precisely what you'll be getting.
+I built this cute, light and modern e-commerce for my Advanced Web Development final project using PHP. Because I have to pay for a service in order to host PHP, I won't have any demo, but the images are precisely what you'll be getting.
 
 ```python
 Make sure you clone or download this repository, and then just run it in your XAMPP localhost.
